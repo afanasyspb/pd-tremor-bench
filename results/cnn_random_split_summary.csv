@@ -1,0 +1,2 @@
+Model,Accuracy_mean,Accuracy_std,BalAcc_mean,BalAcc_std,AUC_mean,AUC_std
+1D-CNN (raw signal),0.7486042289194342,0.00028573386784982855,0.5,0.0,0.6814677504227499,0.028403797086883974

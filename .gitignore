@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# virtual environments
+env/
+venv/
+.venv/
+
+# tool caches and logs
+catboost_info/
+*.log
+
+# raw PhysioNet recordings are downloaded locally, not committed (see data/README.md)
+data/tremordb/
+
+# OS files
+.DS_Store
+Thumbs.db

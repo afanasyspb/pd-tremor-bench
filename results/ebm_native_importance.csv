@@ -1,0 +1,41 @@
+feature,label,importance
+mad,MAD,0.9981387096499156
+bp_6_12,Band Power 6-12 Hz,0.8824651064816426
+bp_4_6,Band Power 4-6 Hz,0.6995056690992005
+peak_psd,Peak PSD,0.6706020201316386
+p2p,Peak-to-Peak,0.3310929815124238
+peak_freq_hz,Peak Frequency (Hz),0.19041579166054748
+rms,RMS,0.19032504975304892
+std,Std. Deviation,0.1896957957068144
+bp_3_12,Band Power 3-12 Hz,0.17981043116540998
+bp_6_12 & rel_bp_3_12,Band Power 6-12 Hz × Rel. Band Power 3-12 Hz,0.15728501942731077
+rel_bp_3_12,Rel. Band Power 3-12 Hz,0.13396826505035908
+mad & bp_6_12,MAD × Band Power 6-12 Hz,0.0926711411068623
+mad & peak_freq_hz,MAD × Peak Frequency (Hz),0.08936990315420616
+p2p & rel_bp_3_12,Peak-to-Peak × Rel. Band Power 3-12 Hz,0.0810693921482398
+p2p & bp_6_12,Peak-to-Peak × Band Power 6-12 Hz,0.07776810847998884
+mad & rel_bp_3_12,MAD × Rel. Band Power 3-12 Hz,0.06794487988760604
+mad & bp_4_6,MAD × Band Power 4-6 Hz,0.064280596002689
+p2p & mad,Peak-to-Peak × MAD,0.06290177959273643
+peak_freq_hz & rel_bp_3_12,Peak Frequency (Hz) × Rel. Band Power 3-12 Hz,0.06204195910072163
+peak_freq_hz & bp_6_12,Peak Frequency (Hz) × Band Power 6-12 Hz,0.06156174388110562
+rms & bp_3_12,RMS × Band Power 3-12 Hz,0.06097495539342869
+rms & p2p,RMS × Peak-to-Peak,0.060568654163628256
+std & bp_3_12,Std. Deviation × Band Power 3-12 Hz,0.05984370209608329
+bp_3_12 & bp_6_12,Band Power 3-12 Hz × Band Power 6-12 Hz,0.05940152120619862
+std & p2p,Std. Deviation × Peak-to-Peak,0.05843659729986653
+bp_4_6 & bp_6_12,Band Power 4-6 Hz × Band Power 6-12 Hz,0.055375618622392694
+peak_freq_hz & bp_4_6,Peak Frequency (Hz) × Band Power 4-6 Hz,0.054085050727264966
+rms & peak_freq_hz,RMS × Peak Frequency (Hz),0.05320654722390888
+p2p & bp_3_12,Peak-to-Peak × Band Power 3-12 Hz,0.05001653836199497
+std & peak_freq_hz,Std. Deviation × Peak Frequency (Hz),0.047994315099968946
+std & bp_4_6,Std. Deviation × Band Power 4-6 Hz,0.04687927002348468
+std & rel_bp_3_12,Std. Deviation × Rel. Band Power 3-12 Hz,0.044767719693572516
+rms & bp_4_6,RMS × Band Power 4-6 Hz,0.04065031979449006
+p2p & peak_freq_hz,Peak-to-Peak × Peak Frequency (Hz),0.03990062992083204
+peak_freq_hz & peak_psd,Peak Frequency (Hz) × Peak PSD,0.03978392888823363
+p2p & bp_4_6,Peak-to-Peak × Band Power 4-6 Hz,0.03953973912567322
+peak_psd & rel_bp_3_12,Peak PSD × Rel. Band Power 3-12 Hz,0.03882506429428763
+rms & rel_bp_3_12,RMS × Rel. Band Power 3-12 Hz,0.03866006165346207
+peak_freq_hz & bp_3_12,Peak Frequency (Hz) × Band Power 3-12 Hz,0.03119698715753036
+bp_4_6 & rel_bp_3_12,Band Power 4-6 Hz × Rel. Band Power 3-12 Hz,0.027586910838555127
